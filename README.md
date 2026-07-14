@@ -3,3 +3,4 @@
 2. Write a python program for the implementation of depth first search (DFS)
 3. Write a python program for the implementation of breadth first search (BFS)
 4. Write a python program for the implementation of uniform cost search
+5. Write a python program for the implementation of greedy best first search
