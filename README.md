@@ -8,3 +8,4 @@
 7. Write a python program to implement N-Queen problem 
 8. Implement minimax for Tic-Tac-Toe
 9. Implement Alpha-Beta pruning
+10. Solve a graph coloring problem using four colors
