@@ -1,3 +1,4 @@
+# Vacuum cleaner program:
 class VaccumCleaner:
     def __init__(self):
         self.environment = {"A": "Dirty", "B": "Dirty"}
