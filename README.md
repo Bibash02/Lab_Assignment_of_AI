@@ -6,3 +6,4 @@
 5. Write a python program for the implementation of greedy best first search
 6. Write a python program for the implementation of a* search
 7. Write a python program to implement N-Queen problem 
+8. Implement minimax for Tic-Tac-Toe
