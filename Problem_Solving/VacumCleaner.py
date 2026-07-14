@@ -29,5 +29,7 @@ class VaccumCleaner:
 
 vacuum = VaccumCleaner()
 vacuum.run()
-            
-            
+
+# Vacuum Cleaner     
+# Vacuum cleaner is a simple AI agent problem where the agent moves between rooms and cleans dirty rooms. 
+# It demonstrates how an intelligent agent senses the environment and takes action.

@@ -21,3 +21,6 @@ def dfs(node):
 
 print("DFS Traversal:")
 dfs('A')
+
+# Depth First Search(DFS)
+# Depth First Search explores one branch completely before moving to another branch. It uses recursion or stack.

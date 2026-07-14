@@ -26,3 +26,6 @@ def bfs(start):
 
 print("BFS Traversal: ")
 bfs('A')
+
+# Breadth First Search(BFS)
+# Breadth First Search explores all neighbors at the current level before moving to the next level. It uses a queue.
