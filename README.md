@@ -9,3 +9,6 @@
 8. Implement minimax for Tic-Tac-Toe
 9. Implement Alpha-Beta pruning
 10. Solve a graph coloring problem using four colors
+
+### Knowledge Representation
+1. Write a program in Prolog to categorize male and female students in class
