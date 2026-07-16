@@ -14,4 +14,4 @@
 1. Write a program in Prolog to categorize male and female students in class
 2. Write a program in Prolog to find max and min of two numbers
 3. Find the factorial of number using recursion in Prolog
-
+4. Write a prolog program to represent few basic facts and perform queries (Elephant is an animal. Elephant is bigger than horse) etc.
