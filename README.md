@@ -32,4 +32,5 @@
 
 ### Machine Learning and Nerual network
 1. Write a python program to implement AND, OR, NOT and XOR
+2. write a python program to illustrate working of backpropagation algorithm 
 
