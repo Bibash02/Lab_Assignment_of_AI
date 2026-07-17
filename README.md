@@ -15,3 +15,17 @@
 2. Write a program in Prolog to find max and min of two numbers
 3. Find the factorial of number using recursion in Prolog
 4. Write a prolog program to represent few basic facts and perform queries (Elephant is an animal. Elephant is bigger than horse) etc.
+5. Represent following facts using prolog: 
+	If a student studies they will pass the exam. 
+	If the student pass their exam they will be happy. 
+	Radha studied for the exam. 
+	Rakesh studied for the exam. 
+	Anish studied for the exam. 
+	Rekha did not study for her exam. 
+	Bibek did not study for the exam 
+
+	Using the facts, answer following: 
+	i. Did Anish pass? 
+	ii. List all the students that passed.
+	iii. Did Rekha study?
+	iv. List all the students that did not study.
