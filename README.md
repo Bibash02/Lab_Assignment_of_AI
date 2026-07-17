@@ -29,3 +29,7 @@
 	ii. List all the students that passed.
 	iii. Did Rekha study?
 	iv. List all the students that did not study.
+
+### Machine Learning and Nerual network
+1. Write a python program to implement AND, OR, NOT and XOR
+
